@@ -6,6 +6,7 @@ ProxMox -> Windows Server 2022 -> Ubuntu Server 22.04 LTS -> BitWarden
 The bulk of the guide is largely the same as the orginal, except the setup.
 
 These instructions demonstrate the following:
+* How to configure Windows Server 2022 on ProxMox
 * How-To Create the Virtual Machine
 * How-To Install the Operating System
 * How-To Configure the Operating System
