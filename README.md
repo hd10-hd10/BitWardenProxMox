@@ -1,9 +1,9 @@
 
-# NOTE: This is for people Running ProxMox as your main Hypervisor.
+# NOTE: This is for people running ProxMox as a main Hypervisor.
 ## Basic structure 
 ProxMox -> Windows Server 2022 -> Ubuntu Server 22.04 LTS -> BitWarden
 
-The Guide is largely the same, but there are a few differences in the setup.
+The bulk of the guide is largely the same as the orginal, except the setup.
 
 These instructions demonstrate the following:
 * How-To Create the Virtual Machine
