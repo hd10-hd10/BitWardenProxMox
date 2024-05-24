@@ -1,6 +1,9 @@
 # BitWarden Self-Host Installation Instructions
 
-This repository is essentially a 'How-To' guide on deploying a self-hosted BitWarden instance. These instructions are targeted towards IT Personel who would like to deploy BitWarden into their organization. 
+# This is for people Running ProxMox as your main HyperVisor
+Basic structure of the Nested Virtualization
+ProxMox -> Windows Server 2022 -> Ubuntu Server 22.04 LTS -> BitWarden
+The Guide is largely the same, but there are a few differences in the setup.
 
 These instructions demonstrate the following:
 * How-To Create the Virtual Machine
