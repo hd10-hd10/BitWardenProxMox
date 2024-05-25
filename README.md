@@ -1,9 +1,7 @@
 
-# NOTE: This is for people running ProxMox as a main Hypervisor.
-## Basic structure 
-ProxMox -> Windows Server 2022 -> Ubuntu Server 22.04 LTS -> BitWarden
+# NOTE: This is for people using ProxMox and want to install Windows Server to run BitWarden.
+## Based off of [ZacksHomeLab's BitWarden Tutortial](https://github.com/ZacksHomeLab/BitWarden)
 
-The bulk of the guide is largely the same as the orginal, except the setup.
 
 These instructions demonstrate the following:
 * How to configure Windows Server 2022 on ProxMox
