@@ -1,6 +1,6 @@
 
 # This is guide is for people using ProxMox and want to install Windows Server to run BitWarden.
-## Based off of [ZacksHomeLab's BitWarden Tutortial](https://github.com/ZacksHomeLab/BitWarden)
+## Orginal Guide: [ZacksHomeLab's BitWarden Tutortial](https://github.com/ZacksHomeLab/BitWarden)
 
 
 These instructions demonstrate the following:
